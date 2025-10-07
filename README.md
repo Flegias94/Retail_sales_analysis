@@ -64,3 +64,9 @@ pandas
 matplotlib
 jupyter
 ```
+
+## Insights
+
+- Correlation between sales and store size
+- Holiday uplift: Holiday weeks generate higher average sales than non-holiday weeks
+- Markdown effect: Weeks with markdowns show a sales lift vs weeks without markdowns
